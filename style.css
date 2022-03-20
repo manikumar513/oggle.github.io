@@ -1,0 +1,31 @@
+
+.name,h1{
+    margin-top: 280px;
+    padding-left: 400px;
+    font-size: 50px;
+    color: blueviolet;
+    font-style:initial;
+}
+
+.cgh{
+    margin-top: 100px;
+    padding-left: 800px;
+   
+    color: aqua;
+    border-radius: 50%;
+}
+
+.mic{
+    margin-top: -30px;
+    padding-left: 1255px;
+}
+
+.Search{
+    margin-top:-20px;
+    padding-left: 1019px;
+}
+
+.app{
+margin: auto;
+    padding-left: 1019px;
+}
